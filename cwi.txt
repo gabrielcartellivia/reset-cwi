@@ -1,1 +1,1 @@
-type gabriel
+cwi reset level 1
