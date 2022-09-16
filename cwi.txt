@@ -1,1 +1,2 @@
 cwi reset level 1
+modificacoes do gabriel para a live do reset
